@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "antd": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ant-design/cli@6.7.1",
+        "mcp"
+      ],
+      "env": {}
+    }
+  }
+}
